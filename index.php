@@ -2,5 +2,5 @@
 
 phpinfo();
 
-
+// this is comment f
 ?>
