@@ -7,7 +7,7 @@
  * 3 Can use number inside the name 
  * 4 No special characters allowed
  * 5 Case sensitive
- * 
+ * // 
  * 
  * search loosely typed language
  */

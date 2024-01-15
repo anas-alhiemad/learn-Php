@@ -12,3 +12,4 @@
     <div> <?php include("score.php") ?></div>
 </body>
 </html>
+// this
