@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Variable Variable
+ * Variable Variable // 
  */
 $username="anas";
 $$username="anas_ali";

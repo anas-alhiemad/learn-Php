@@ -3,7 +3,7 @@
 /**
  * Per_defined Variable
  * متغيرات جاهزة باللغة بتقدر تستعملها بأي وقت 
- * Search 
+ * Search   // 
  * Per_Defined in php 
  */
 
